@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbf727a2-fbe4-4c01-b617-f0fd06c0c3fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NettyPro" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Application/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Application\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1evmHqceXuiW6eGTEakrTker7f1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\NettyPro\src\main\java\com\atguigu\netty\dubborpc" />
+      <recent name="F:\IdeaProjects\NettyPro\src\main\java\com\atguigu\netty\protocoltcp" />
+      <recent name="F:\IdeaProjects\NettyPro\src\main\java\com\atguigu\netty\tcp" />
+      <recent name="F:\IdeaProjects\NettyPro\src\main\resources" />
+      <recent name="F:\IdeaProjects\NettyPro\src\main\java\com\atguigu\netty\codec2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\NettyPro" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.ClientBootstrap">
+    <configuration name="ClientBootStrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.dubborpc.customer.ClientBootStrap" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.dubborpc.customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.dubborpc.customer.ClientBootstrap" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.dubborpc.customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClient (2)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.protocoltcp.MyClient" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.protocoltcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.protocoltcp.MyServer" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.protocoltcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.dubborpc.provider.ServerBootstrap" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.dubborpc.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyServer (2)" />
+      <item itemvalue="Application.MyClient (2)" />
+      <item itemvalue="Application.ServerBootstrap" />
+      <item itemvalue="Application.ClientBootStrap" />
+      <item itemvalue="Application.ClientBootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientBootstrap" />
+        <item itemvalue="Application.ServerBootstrap" />
+        <item itemvalue="Application.ClientBootStrap" />
+        <item itemvalue="Application.MyClient (2)" />
+        <item itemvalue="Application.MyServer (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbf727a2-fbe4-4c01-b617-f0fd06c0c3fc" name="Default Changelist" comment="" />
+      <created>1595210356647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595210356647</updated>
+      <workItem from="1595210368935" duration="6675000" />
+      <workItem from="1595218267242" duration="1532000" />
+      <workItem from="1595234523629" duration="8253000" />
+      <workItem from="1595301333406" duration="112000" />
+      <workItem from="1595321934952" duration="1583000" />
+      <workItem from="1595402042538" duration="8445000" />
+      <workItem from="1595467994218" duration="5836000" />
+      <workItem from="1595474839066" duration="1447000" />
+      <workItem from="1595486327340" duration="1114000" />
+      <workItem from="1595493122021" duration="1608000" />
+      <workItem from="1595554927034" duration="8873000" />
+      <workItem from="1595579685104" duration="5702000" />
+      <workItem from="1595639969504" duration="2907000" />
+      <workItem from="1595643000899" duration="2605000" />
+      <workItem from="1595662835959" duration="9435000" />
+      <workItem from="1595727895306" duration="8879000" />
+      <workItem from="1595752674456" duration="355000" />
+      <workItem from="1595753263133" duration="27000" />
+      <workItem from="1595753343589" duration="6530000" />
+      <workItem from="1595815410669" duration="7058000" />
+      <workItem from="1595834807269" duration="2043000" />
+      <workItem from="1595986406322" duration="2072000" />
+      <workItem from="1595988492015" duration="1988000" />
+      <workItem from="1595990615047" duration="4093000" />
+      <workItem from="1596015874671" duration="3751000" />
+      <workItem from="1596019750126" duration="375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.proto" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="197" y="242" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595991143700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="197" y="242" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595991143700" />
+    <state x="1226" y="453" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595737048588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1226" y="453" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595737048588" />
+    <state x="283" y="426" key="#com.intellij.ide.util.MemberChooser" timestamp="1596017375683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="283" y="426" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596017375683" />
+    <state x="1475" y="571" width="445" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595728025814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1475" y="571" width="445" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1595728025814" />
+    <state x="1082" y="556" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1595556771974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1082" y="556" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595556771974" />
+    <state width="557" height="466" key="DebuggerActiveHint" timestamp="1595581284668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="557" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1595581284668" />
+    <state x="1180" y="375" key="FileChooserDialogImpl" timestamp="1595486801119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1180" y="375" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595486801119" />
+    <state width="1877" height="349" key="GridCell.Tab.0.bottom" timestamp="1596020136358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596020136358" />
+    <state width="1877" height="349" key="GridCell.Tab.0.center" timestamp="1596020136358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596020136358" />
+    <state width="1877" height="349" key="GridCell.Tab.0.left" timestamp="1596020136358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596020136358" />
+    <state width="1877" height="349" key="GridCell.Tab.0.right" timestamp="1596020136358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596020136358" />
+    <state width="1214" height="313" key="GridCell.Tab.1.bottom" timestamp="1595824339624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1214" height="313" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595824339624" />
+    <state width="1214" height="313" key="GridCell.Tab.1.center" timestamp="1595824339624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1214" height="313" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595824339624" />
+    <state width="1214" height="313" key="GridCell.Tab.1.left" timestamp="1595824339624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1214" height="313" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595824339624" />
+    <state width="1214" height="313" key="GridCell.Tab.1.right" timestamp="1595824339624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1214" height="313" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595824339624" />
+    <state x="718" y="195" key="SettingsEditor" timestamp="1595835821096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595835821096" />
+    <state x="260" y="842" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595556770889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="842" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1595556770889" />
+    <state x="1288" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595995511489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1288" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595995511489" />
+    <state x="867" y="437" key="run.anything.popup" timestamp="1595995459432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="867" y="437" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595995459432" />
+    <state x="1260" y="205" width="672" height="676" key="search.everywhere.popup" timestamp="1596017587490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1260" y="205" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596017587490" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/codec/MessageToByteEncoder.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NettyPro$GroupChatClient.ic" NAME="GroupChatClient Coverage Results" MODIFIED="1595672964198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.netty.groupchat.*</FILTER>
+    </SUITE>
+  </component>
+</project>
